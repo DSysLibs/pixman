@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dsl-pixman
+dsl-pixman.so
+dsl-pixman.dylib
+dsl-pixman.dll
+libdsl-pixman.a
+dsl-pixman.a
+dsl-pixman.lib
+dsl-pixman-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

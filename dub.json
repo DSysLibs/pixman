@@ -1,0 +1,13 @@
+{
+	"description": "pixman binding for Dlang",
+	"license": "Unlicense",
+	"authors": [
+		"Roman Vlasov aka Doctor"
+	],
+	"copyright": "Copyright © 2026, Roman Vlasov aka Doctor",
+	"name": "dsl-pixman",
+	"targetName": "pixman",
+    "targetType": "sourceLibrary",
+    "sourcePaths": ["source"],
+    "importPaths": ["source"]
+}
