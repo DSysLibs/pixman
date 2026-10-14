@@ -1,4 +1,4 @@
-module externs.pixman.pixman;
+module dsl.pixman.pixman;
 
 extern(C):
 @nogc: nothrow:

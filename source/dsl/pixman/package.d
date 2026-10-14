@@ -1,4 +1,4 @@
-module externs.pixman;
+module dsl.pixman;
 
-public import externs.pixman.pixman;
-public import externs.pixman.pixman_version;
+public import dsl.pixman.pixman;
+public import dsl.pixman.pixman_version;

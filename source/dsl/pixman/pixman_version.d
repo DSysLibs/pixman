@@ -1,4 +1,4 @@
-module externs.pixman.pixman_version;
+module dsl.pixman.pixman_version;
 
 /*
  * Copyright © 2008 Red Hat, Inc.
